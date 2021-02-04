@@ -1,6 +1,14 @@
-# flutter_meditation
+# Flutter App - Meditation App - Flutter UI
 
-A new Flutter application.
+## [Watch it on YouTube](https://youtu.be/QpBwHoqxIGc)
+
+We design a simple mobile app by using flutter.
+
+### Meditation App Final UI
+
+![App UI](https://github.com/ravi84184/flutter_meditation/blob/master/maxresdefault.jpg)
+
+
 
 ## Getting Started
 
@@ -14,3 +22,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
